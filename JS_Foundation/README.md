@@ -8,3 +8,6 @@
   - operations.js
   - logical.js - logical operations
   - assignment.js
+- part 2
+  - primitives.js
+  - nonPrimitives.js
