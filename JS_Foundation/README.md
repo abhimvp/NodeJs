@@ -13,3 +13,5 @@
   - nonPrimitives.js
 - part 3
   - condition-challenges.js
+- part4
+  - arrayChallenges.js //TODO
