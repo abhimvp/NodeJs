@@ -11,3 +11,5 @@
 - part 2
   - primitives.js
   - nonPrimitives.js
+- part 3
+  - condition-challenges.js
