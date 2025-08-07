@@ -13,5 +13,8 @@
   - nonPrimitives.js
 - part 3
   - condition-challenges.js
-- part4
-  - arrayChallenges.js //TODO
+- part 4
+  - arrayChallenges.js //TODO - complete remaining ones later - total - 10
+  - loopChallenges.js // TODO - complete remaining ones later - total - 6
+- part 5
+  - function.js
