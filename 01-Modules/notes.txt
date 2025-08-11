@@ -13,4 +13,5 @@
 
 - Also to install typings which shows suggestions of what functions available to use for a module we need to install @types/node and for that to happen we need make our directory as package and we do that using `npm init` which creates a `package.json`.
 - then do `npm i @types/node`
-- `script.js` to understand blocking vs non-blocking code execution in nodeJS.
+
+New New content
