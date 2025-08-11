@@ -10,3 +10,5 @@
 - Understanding events and buffers in Node.js - by Hitesh Choudhary - `02-Events`
   - read the documentation as well - [reference](https://nodejs.org/api/events.html#events)
   - Building a real-time chat app with custom events in Node.js - `02-Events/chatApp`
+  - working with Buffers in node.js using examples. - `02-buffer`
+    - refer the doc - best thing to do always - official reference [doc](https://nodejs.org/api/buffer.html)
